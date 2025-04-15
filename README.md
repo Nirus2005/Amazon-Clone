@@ -14,16 +14,6 @@ This is a **fully responsive Amazon landing page clone**, built using only **HTM
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot Desktop](screenshot-desktop.png)  
-*Desktop view*
-
-![Screenshot Mobile](screenshot-mobile.png)  
-*Mobile view*
-
----
-
 ## 🎯 Features
 
 - Responsive header with search bar, nav items, and cart
