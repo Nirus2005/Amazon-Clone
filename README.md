@@ -2,7 +2,7 @@
 
 This is a **fully responsive Amazon landing page clone**, built using only **HTML** and **CSS** — no JavaScript or frameworks involved.
 
-> ⚠️ This is a front-end clone created **for educational purposes only**. All assets, logos, and styles are recreated from scratch and not affiliated with Amazon.
+> ⚠️ This is a front-end clone created **for educational purposes only**. 
 
 ---
 
